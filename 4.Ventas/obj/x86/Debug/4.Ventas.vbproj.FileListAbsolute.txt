@@ -1,0 +1,41 @@
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\bin\Debug\4.Ventas.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\bin\Debug\4.Ventas.pdb
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\bin\Debug\4.Ventas.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\obj\x86\Debug\_4.Ventas.Ventas.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\obj\x86\Debug\_4.Ventas.Resources.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\obj\x86\Debug\4.Ventas.vbproj.GenerateResource.Cache
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\obj\x86\Debug\4.Ventas.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\obj\x86\Debug\4.Ventas.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\4.Ventas\obj\x86\Debug\4.Ventas.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.exe
+E:\Ferchabbita\Escritorio\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.xml
+E:\Ferchabbita\Escritorio\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.pdb
+F:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.exe
+F:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.xml
+F:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.pdb
+F:\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.exe
+F:\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.pdb
+F:\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.xml
+F:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\_4.Ventas.Ventas.resources
+F:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\_4.Ventas.Resources.resources
+F:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.vbproj.GenerateResource.Cache
+E:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.exe
+E:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.xml
+E:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.pdb
+E:\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.exe
+E:\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.pdb
+E:\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.xml
+E:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\_4.Ventas.Ventas.resources
+E:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\_4.Ventas.Resources.resources
+E:\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.vbproj.GenerateResource.Cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.pdb
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\bin\Debug\4.Ventas.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.vbprojAssemblyReference.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\_4.Ventas.Ventas.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\_4.Ventas.Resources.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.vbproj.GenerateResource.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.vbproj.CoreCompileInputs.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\4.Ventas\4.Ventas\obj\x86\Debug\4.Ventas.pdb
